@@ -52,15 +52,16 @@ div{
     background-color: #F7FFF7;
     min-width: 300px;
     max-width: 680px;
-    min-height: 350px;
+    min-height: 300px;
     border-radius: 15px;
-    padding: 30px;
+    padding: 15px;
     margin: auto;
     margin-bottom: 15px;
 }
 img{
     display:block;
-    width: 350px;
+    min-width: 300px;
+    max-width: 200px;
     border-radius: 15px;
     margin: auto;
 }
